@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.box{
+  width: 1120px;
+  margin: 50px auto;
+  border: 1px solid #eee;
+}
+
+table td{
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+  
+  width:160px;
+}
+table{
+    border-collapse: collapse;
+}
+.th td{
+  background: #ccc;
+}
